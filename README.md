@@ -1,5 +1,6 @@
 
 ## Sorteador de Números com Grunt, Sass e Less
+![Sorteador em ação](https://github.com/tligor/sorteador_grunt/blob/main/Sorteador.gif)
 
 Este projeto visa a aplicação das tecnologias Grunt, Sass e Less para desenvolver um sorteador de números intuitivo e eficiente. 
 
