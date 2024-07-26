@@ -30,7 +30,7 @@ Este projeto visa a aplicação das tecnologias Grunt, Sass e Less para desenvol
 
 3. **Execute o Grunt**:
    ```
-   grunt
+   npm run grunt
    ```
 
 ### Contribuições
